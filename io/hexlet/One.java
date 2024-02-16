@@ -1,3 +1,5 @@
+// io/hexlet/One.java
+// Этот файл точка входа
 package io.hexlet;
 
 public class One {
@@ -5,3 +7,4 @@ public class One {
         Two.greeting();
     }
 }
+
